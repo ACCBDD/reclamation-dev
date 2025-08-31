@@ -1,11 +1,16 @@
 EntityEvents.spawned(event => {
-  const entity = event.entity;
+  let entity = event.entity;
 
-  if (entity.type == 'minecraft:chicken') {
-    const passengers = entity.passengers;
-    if (passengers && passengers.length > 0) {
-      event.cancel()
-    }
+  // Check if we are spawning a chicken with passengers
+  if (entity.type == 'minecraft:chicken' && !entity.passengers.isEmpty()) {
+
+    // detach all passengers
+    entity.passengers.forEach(p => {
+      p.stopRiding();
+    });
+
+    // cancel the spawning event for the chicken
+    event.cancel();
   }
 })
 
