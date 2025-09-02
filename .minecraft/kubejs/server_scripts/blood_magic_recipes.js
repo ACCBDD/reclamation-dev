@@ -253,4 +253,56 @@ ServerEvents.recipes(event => {
         },
         "upgradeLevel": 2
     })
+
+    function revert_rune(input, slate) {
+        event.custom({
+            "type": "bloodmagic:arc",
+            "addedoutput": [
+                {
+                    "type": {
+                        "count": 1,
+                        "item": slate
+                    },
+                    "chance": 0.0,
+                    "mainchance": 1.0
+                }
+            ],
+            "consumeingredient": false,
+            "input": {
+                "item": "bloodmagic:"+input
+            },
+            "inputsize": 1,
+            "mainoutputchance": 0.0,
+            "output": {
+                "item": "bloodmagic:blankrune"
+            },
+            "tool": {
+                "tag": "bloodmagic:arc/reverter"
+            }
+        })
+    }
+
+    revert_rune("speedrune", "bloodmagic:blankslate")
+    revert_rune("sacrificerune", "bloodmagic:reinforcedslate")
+    revert_rune("selfsacrificerune", "bloodmagic:reinforcedslate")
+    revert_rune("dislocationrune", "bloodmagic:infusedslate")
+    revert_rune("altarcapacityrune", "bloodmagic:infusedslate")
+    revert_rune("bettercapacityrune", "bloodmagic:demonslate")
+    revert_rune("accelerationrune", "bloodmagic:demonslate")
+    revert_rune("chargingrune", "bloodmagic:demonslate")
+    event.custom({
+        "type": "bloodmagic:arc",
+        "consumeingredient": false,
+        "input": {
+            "item": "bloodmagic:orbcapacityrune"
+        },
+        "inputsize": 1,
+        "mainoutputchance": 0.0,
+        "output": {
+            "item": "bloodmagic:blankrune"
+        },
+        "tool": {
+            "tag": "bloodmagic:arc/reverter"
+        }
+    })
 })

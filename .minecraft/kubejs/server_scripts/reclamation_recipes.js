@@ -174,6 +174,13 @@ ServerEvents.recipes(event => {
         '2x minecraft:gravel'
     ])
 
+    //create tree fert
+    event.shapeless('4x create:tree_fertilizer', [
+        '2x #minecraft:small_flowers',
+        '1x minecraft:bone_meal',
+        '1x enchanted:mutandis'
+    ])
+
     //cut copper into ingots
     event.custom({
         "type": "farmersdelight:cutting",
@@ -1553,5 +1560,5 @@ ServerEvents.recipes(event => {
             'minecraft:diamond',
             'embers:dawnstone_ingot')
 
-
+    event.remove({id: 'constructionwand:core_destruction'})
 })

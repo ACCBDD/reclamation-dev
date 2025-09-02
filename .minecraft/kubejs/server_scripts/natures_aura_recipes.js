@@ -4,6 +4,36 @@ ServerEvents.recipes(event => {
     event.remove({id: 'naturesaura:weather_changer'})
     event.remove({type: 'naturesaura:animal_spawner'})
 
+    event.remove({id: 'naturesaura:spawn_lamp'})
+    event.custom({
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+            "ILI",
+            "SGE",
+            "ILI"
+        ],
+        "key": {
+            "I": {
+                "tag": "forge:ingots/iron"
+            },
+            "L": {
+                "item": "minecraft:glass"
+            },
+            "S": {
+                "item": "naturesaura:token_terror"
+            },
+            "G": {
+                "item": "minecraft:glowstone"
+            },
+            "E": {
+                "item": "botania:ender_air_bottle",
+            }
+        },
+        "result": {
+            "item": "naturesaura:spawn_lamp"
+        }
+    })
+
     event.remove({ id: 'naturesaura:tree_ritual/eye'})
     event.custom({
         "type": "naturesaura:tree_ritual",

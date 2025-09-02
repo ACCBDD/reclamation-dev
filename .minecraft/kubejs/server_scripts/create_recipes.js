@@ -207,4 +207,43 @@ ServerEvents.recipes(event => {
             "item": "create:rose_quartz"
         }
     })
+
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "key": {
+            "B": {
+                "item": "minecraft:iron_bars"
+            },
+            "P": {
+                "item": "embers:iron_plate"
+            },
+            "F": {
+                "item": "botania:fel_pumpkin"
+            },
+            "R": {
+                "item": "botania:rune_fire"
+            },
+            "C": {
+                "item": "botania:rune_wrath"
+            },
+            "S": {
+                "item": "mekanism:ingot_steel"
+            },
+            "N": {
+                "item": "minecraft:netherrack"
+            }
+        },
+        "pattern": [
+            "BBBBB",
+            "BPFPB",
+            "BRBCB",
+            "SSNSS",
+            "SNNNS"
+        ],
+        "result": {
+            "count": 1,
+            "item": "create:blaze_burner"
+        }
+    })
 })

@@ -1,17 +1,23 @@
-# Reclamation 1.6.1
+# Reclamation 1.7.0
 
 ## Added
-* Sacrificial knife is a requirement for early blood magic quests
+* Russian translation - thank you @SCOH-dev!
+* Filled blaze burner recipe - #193
+* Blood magic rune reversion recipes - #200
+* Earlier-game tree fertilizer recipe - #203
+* Mods
+  * Trash Cans - #197
+  * AttributeFix - #201
+  * Construction Wand - #204
 
 
-## Downgraded
-* Farmer's Delight -> 1.2.8
+## Changed
+* Nature's aura spawn lamp craftable pre-end - #202
 
 
 ## Fixed
-* River reclaim ritual turns biome into plains
-* Gem sequence breaks - there's still one but if you get there idc you earned it
-* Pepper wasn't a dependency for full plant completion
+* Ghost baby husks spawning - thank you @nmistry! - #77
+* Prosperity seed base only used vanilla wheat seeds - #194
 
 
 Early builds and bug reports can be accessed from the [GitHub.](https://github.com/ACCBDD/reclamation-dev)

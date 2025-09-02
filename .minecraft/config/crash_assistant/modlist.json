@@ -89,6 +89,11 @@
     "modId": "athena",
     "version": "3.1.2"
   },
+  "AttributeFix-Forge-1.20.1-21.0.4.jar": {
+    "jarName": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+    "modId": "attributefix",
+    "version": "21.0.4"
+  },
   "baguettelib-1.20.1-Forge-1.1.0.jar": {
     "jarName": "baguettelib-1.20.1-Forge-1.1.0.jar",
     "modId": "baguettelib",
@@ -148,6 +153,11 @@
     "jarName": "complicated_bees-1.20.1-3.0.3.jar",
     "modId": "complicated_bees",
     "version": "1.20.1-3.0.3"
+  },
+  "constructionwand-1.20.1-2.11.jar": {
+    "jarName": "constructionwand-1.20.1-2.11.jar",
+    "modId": "constructionwand",
+    "version": "1.20.1-2.11"
   },
   "Controlling-forge-1.20.1-12.0.2.jar": {
     "jarName": "Controlling-forge-1.20.1-12.0.2.jar",
@@ -736,6 +746,11 @@
     "jarName": "toomanyglyphs-1.20.1-2.3.2.12345.jar",
     "modId": "toomanyglyphs",
     "version": "2.3.2.12345"
+  },
+  "trashcans-1.0.18b-forge-mc1.20.jar": {
+    "jarName": "trashcans-1.0.18b-forge-mc1.20.jar",
+    "modId": "trashcans",
+    "version": "1.0.18b"
   },
   "tru.e-ending-v1.1.0c.jar": {
     "jarName": "tru.e-ending-v1.1.0c.jar",

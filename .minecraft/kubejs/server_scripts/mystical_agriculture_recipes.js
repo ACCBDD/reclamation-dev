@@ -91,6 +91,10 @@ ServerEvents.recipes(event => {
         'minecraft:wheat_seeds',
         '#forge:seeds')
 
+    event.replaceInput({id: 'mysticalagriculture:prosperity_seed_base'},
+        'minecraft:wheat_seeds',
+        '#forge:seeds')
+
     event.custom({
         "type": "botania:runic_altar",
         "ingredients": [
