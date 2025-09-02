@@ -9,6 +9,7 @@
   * Trash Cans - #197
   * AttributeFix - #201
   * Construction Wand - #204
+* Custom resource pack by @umbral_witch on discord!
 
 
 ## Changed
