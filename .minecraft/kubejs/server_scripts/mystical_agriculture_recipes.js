@@ -298,6 +298,69 @@ ServerEvents.recipes(event => {
         G: 'embers:ember_crystal'
     })
 
+    //Alder log
+    event.shaped('12x enchanted:alder_log', [
+        '   ',
+        'WFW',
+        '   '
+    ], {
+        W: 'mysticalagriculture:wood_essence',
+        F: 'mysticalagriculture:fertilized_essence'
+    })
+
+    //Hawthorn log
+    event.shaped('12x enchanted:hawthorn_log', [
+        ' W ',
+        ' F ',
+        ' W '
+    ], {
+        W: 'mysticalagriculture:wood_essence',
+        F: 'mysticalagriculture:fertilized_essence'
+    })
+
+    //Rowan log
+    event.shaped('12x enchanted:rowan_log', [
+        '  W',
+        ' F ',
+        'W  '
+    ], {
+        W: 'mysticalagriculture:wood_essence',
+        F: 'mysticalagriculture:fertilized_essence'
+    })
+
+    //Alder sapling
+    event.shaped('4x enchanted:alder_sapling', [
+        ' F ',
+        'WNW',
+        ' F '
+    ], {
+        W: 'mysticalagriculture:wood_essence',
+        F: 'mysticalagriculture:fertilized_essence',
+        N: 'mysticalagriculture:nature_essence'
+    })
+
+    //Hawthorn sapling
+    event.shaped('4x enchanted:hawthorn_sapling', [
+        ' W ',
+        'FNF',
+        ' W '
+    ], {
+        W: 'mysticalagriculture:wood_essence',
+        F: 'mysticalagriculture:fertilized_essence',
+        N: 'mysticalagriculture:nature_essence'
+    })
+
+    //Rowan sapling
+    event.shaped('4x enchanted:rowan_sapling', [
+        '  W',
+        'FNF',
+        'W  '
+    ], {
+        W: 'mysticalagriculture:wood_essence',
+        F: 'mysticalagriculture:fertilized_essence',
+        N: 'mysticalagriculture:nature_essence'
+    })
+
     //remove infusion
     event.remove({input: '#mysticalagriculture:infusion_crystals'})
     event.remove({id: 'mysticalagriculture:prudentium_essence_uncraft'})
