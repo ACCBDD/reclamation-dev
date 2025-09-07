@@ -1247,6 +1247,217 @@ ServerEvents.recipes(event => {
         T: 'minecraft:torch',
         C: 'create:copper_nugget'
     })
+    
+    //Macaw's Lights and Lamps recipes using Beeswax instead of vanilla Honeycomb
+    event.shaped('mcwlights:golden_low_candle_holder', [
+        ' S ',
+        ' W ',
+        ' G '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('mcwlights:copper_low_candle_holder', [
+        ' S ',
+        ' W ',
+        ' C '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        C: 'minecraft:copper_ingot',
+    })
+
+    event.shaped('mcwlights:iron_low_candle_holder', [
+        ' S ',
+        ' W ',
+        ' I '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        I: 'minecraft:iron_ingot',
+    })
+
+    event.shaped('2x mcwlights:golden_candle_holder', [
+        ' S ',
+        'GWG',
+        ' G '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('2x mcwlights:copper_candle_holder', [
+        ' S ',
+        'CWC',
+        ' C '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        C: 'minecraft:copper_ingot',
+    })
+
+    event.shaped('2x mcwlights:iron_candle_holder', [
+        ' S ',
+        'IWI',
+        ' I '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        I: 'minecraft:iron_ingot',
+    })
+
+    event.shaped('mcwlights:golden_wall_candle_holder', [
+        'S  ',
+        'WGG',
+        '   '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('mcwlights:copper_wall_candle_holder', [
+        'S  ',
+        'WCC',
+        '   '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        C: 'minecraft:copper_ingot',
+    })
+
+    event.shaped('mcwlights:iron_wall_candle_holder', [
+        'S  ',
+        'WII',
+        '   '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        I: 'minecraft:iron_ingot',
+    })
+
+    event.shaped('mcwlights:golden_double_candle_holder', [
+        'S S',
+        'WGW',
+        ' G '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('mcwlights:copper_double_candle_holder', [
+        'S S',
+        'WCW',
+        ' C '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        C: 'minecraft:copper_ingot',
+    })
+
+    event.shaped('mcwlights:iron_double_candle_holder', [
+        'S S',
+        'WIW',
+        ' I '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        I: 'minecraft:iron_ingot',
+    })
+
+    event.shaped('mcwlights:golden_triple_candle_holder', [
+        'SSS',
+        'WWW',
+        ' G '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('mcwlights:copper_triple_candle_holder', [
+        'SSS',
+        'WWW',
+        ' C '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        C: 'minecraft:copper_ingot',
+    })
+
+    event.shaped('mcwlights:iron_triple_candle_holder', [
+        'SSS',
+        'WWW',
+        ' I '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        I: 'minecraft:iron_ingot',
+    })
+
+    event.shaped('mcwlights:golden_small_chandelier', [
+        'SGS',
+        'WGW',
+        '   '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('mcwlights:copper_small_chandelier', [
+        'SCS',
+        'WCW',
+        '   '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        C: 'minecraft:copper_ingot',
+    })
+
+    event.shaped('mcwlights:iron_small_chandelier', [
+        'SIS',
+        'WIW',
+        '   '
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        I: 'minecraft:iron_ingot',
+    })
+
+    event.shaped('mcwlights:golden_chandelier', [
+        'SGS',
+        'WGW',
+        'G G'
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('mcwlights:copper_chandelier', [
+        'SCS',
+        'WCW',
+        'C C'
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        C: 'minecraft:copper_ingot',
+    })
+
+    event.shaped('mcwlights:iron_chandelier', [
+        'SIS',
+        'WIW',
+        'I I'
+    ], {
+        S: 'minecraft:string',
+        W: 'complicated_bees:beeswax',
+        I: 'minecraft:iron_ingot',
+    })
 
     event.custom({
         "type": "advanced_ae:reaction",
