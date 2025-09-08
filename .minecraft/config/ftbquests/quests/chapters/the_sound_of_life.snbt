@@ -2035,6 +2035,7 @@
 				"{ftbquests.chapter.the_sound_of_life.quest60.description2}"
 			]
 			id: "2CC12CE948BCDF7A"
+			optional: true
 			rewards: [{
 				id: "088A7018CDDAC6A6"
 				type: "xp"

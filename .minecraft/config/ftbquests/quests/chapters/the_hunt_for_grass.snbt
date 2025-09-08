@@ -224,6 +224,8 @@
 				"{ftbquests.chapter.the_hunt_for_grass.quest7.description2}"
 				""
 				"{ftbquests.chapter.the_hunt_for_grass.quest7.description3}"
+				""
+				"{ftbquests.chapter.the_hunt_for_grass.quest7.description4}"
 			]
 			icon: "enchanted:witch_cauldron"
 			id: "6CB296A3AD751F62"

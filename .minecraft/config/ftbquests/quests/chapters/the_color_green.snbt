@@ -573,6 +573,7 @@
 			dependencies: ["6628083C19C5F8CB"]
 			description: ["{ftbquests.chapter.the_color_green.quest16.description1}"]
 			id: "5C1E3750F91A38B2"
+			optional: true
 			rewards: [{
 				id: "72FD0BCB4D48D5E6"
 				type: "xp"
@@ -584,7 +585,7 @@
 				type: "item"
 			}]
 			x: 5.5d
-			y: -1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["359392265BF91571"]
@@ -1429,7 +1430,7 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["5C1E3750F91A38B2"]
+			dependencies: ["6628083C19C5F8CB"]
 			description: [
 				"{ftbquests.chapter.the_color_green.quest41.description1}"
 				""
@@ -1788,6 +1789,7 @@
 				"{ftbquests.chapter.the_color_green.quest54.description2}"
 			]
 			id: "7EF13F67C5B31A7E"
+			optional: true
 			rewards: [{
 				id: "09ABACAD03F4082B"
 				type: "xp"
@@ -1810,6 +1812,7 @@
 			]
 			icon: "embers:ignem_reactor"
 			id: "6A69962F4001509A"
+			optional: true
 			rewards: [{
 				id: "70763DFF0C37A354"
 				type: "xp"

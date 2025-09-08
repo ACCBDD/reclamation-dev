@@ -504,4 +504,15 @@ ServerEvents.recipes(event => {
             "item": "minecraft:heart_of_the_sea"
         }
     })
+
+    event.custom({
+        "type": "botania:mana_infusion",
+        "input": {
+            "item": "botania:pink_petal"
+        },
+        "mana": 500,
+        "output": {
+            "item": "minecraft:pink_petals"
+        }
+    })
 })
