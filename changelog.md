@@ -12,6 +12,9 @@ Note - if you had Farmer's Delight plants planted, this update might break them 
 * Conjuration Catalyst quest marked as optional - #226
 * Ignem Reactor quest marked as optional - #226
 * Wildfire Stirling quest marked as optional - #226
+* More Quark blocks usable as path blocks - #218 - thank you @sanorikitsune!
+* Recipes for logs and saplings from Enchanted - #219 - thank you @sanorikitsune!
+* Alt recipes for candle stuff from Macaw's mods - #227 - thank you @sanorikitsune!
 
 
 ## Fixed
