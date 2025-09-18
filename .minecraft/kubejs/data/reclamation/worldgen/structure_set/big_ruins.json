@@ -3,12 +3,44 @@
     {
       "structure": "reclamation:big_ruins",
       "weight": 1
+    },
+    {
+      "structure": "reclamation:bunkers",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:cave",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:graveyard",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:mine",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:oil_rig",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:ruin_houses",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:silo",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:statue",
+      "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 100,
-    "separation": 60,
+    "spacing": 25,
+    "separation": 15,
     "salt": 1646207470
   }
 }

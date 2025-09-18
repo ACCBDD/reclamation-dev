@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#reclamation:has_structure/ruin_walls",
+  "biomes": "#reclamation:has_structure/big_ruins",
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",
