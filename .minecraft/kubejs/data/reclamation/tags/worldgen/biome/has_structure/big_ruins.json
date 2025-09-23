@@ -1,4 +1,8 @@
 {
   "values": [
+    "reclamation:dead_forest",
+    "reclamation:dead_highland",
+    "reclamation:dead_hills",
+    "reclamation:dead_plains"
   ]
 }

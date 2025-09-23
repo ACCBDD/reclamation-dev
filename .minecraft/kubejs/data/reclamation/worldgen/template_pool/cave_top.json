@@ -6,7 +6,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "reclamation:bunker/bunker_top",
+        "location": "reclamation:buildings/cave_top",
         "processors": "minecraft:empty"
       }
     }
