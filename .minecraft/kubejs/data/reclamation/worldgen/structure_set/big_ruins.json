@@ -15,6 +15,34 @@
     {
       "structure": "reclamation:statue",
       "weight": 1
+    },
+    {
+      "structure": "reclamation:cave",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:mine",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:graveyard",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:ruined_house_1",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:ruined_house_2",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:bunker_rich",
+      "weight": 1
+    },
+    {
+      "structure": "reclamation:bunker_poor",
+      "weight": 1
     }
   ],
   "placement": {
