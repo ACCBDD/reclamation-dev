@@ -1,8 +1,8 @@
-# Reclamation 1.8.0
-Note - if you had Farmer's Delight plants planted, this update might break them a little! Back up your worlds!
+# Reclamation 2.0.0
+This update adds WORLDGEN and other stuff so uhh backup your worlds
 
 ## Added
-* Vanilla pink petals recipe - #216
+* Ruin structures! Thank you to @japkens and @kamildank for the FANTASTIC structures :) - #
 
 
 ## Changed
