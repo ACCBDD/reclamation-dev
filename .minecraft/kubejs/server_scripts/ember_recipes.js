@@ -3,6 +3,7 @@ ServerEvents.recipes(event => {
     crystal_recipe_ids.forEach(id => {
         event.remove({id: 'embers:alchemy/'+id+'_crystal_seed'})
     })
+    event.remove({id: 'embers:alchemy/soul_sand'})
 
     event.replaceInput({id: 'embers:ancient_codex'},
             'embers:archaic_brick',

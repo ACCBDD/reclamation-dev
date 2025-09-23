@@ -1591,6 +1591,8 @@
 				"{ftbquests.chapter.the_sound_of_life.quest49.description1}"
 				""
 				"{ftbquests.chapter.the_sound_of_life.quest49.description2}"
+				""
+				"{ftbquests.chapter.the_sound_of_life.quest49.description3}"
 			]
 			icon: "ars_nouveau:source_jar"
 			id: "797F89EC438BD230"

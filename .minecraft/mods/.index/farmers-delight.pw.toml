@@ -1,4 +1,4 @@
-filename = 'FarmersDelight-1.20.1-1.2.8.jar'
+filename = 'FarmersDelight-1.20.1-1.2.9.jar'
 name = "Farmer's Delight"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a3402ee46cf12583416b8fbe84a97dd20ba1401a'
+hash = 'ca9417c369e75d38dacdac59937223e5f6adcc18'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6597298
+file-id = 6917255
 project-id = 398521

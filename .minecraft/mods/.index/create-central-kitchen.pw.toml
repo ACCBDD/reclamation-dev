@@ -1,16 +1,16 @@
-filename = 'create_central_kitchen-1.20.1-for-create-6.0.4-1.4.1.jar'
+filename = 'create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar'
 name = 'Create: Central Kitchen'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f094ebdd210242b082772226c98e402adb0c8fab'
+hash = '4e1048ce2b5453d657b42ea5dcec5ada1842b0ea'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6522105
+file-id = 6987710
 project-id = 820977

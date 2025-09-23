@@ -2930,7 +2930,13 @@
 				"2E16EB869081D97A"
 				"767FBB61FCFCF24F"
 			]
+			description: ["...its pepper. What do you want me to say?"]
 			id: "10434FBFCF57E54E"
+			rewards: [{
+				id: "7B769DB228A4EE6B"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "4FC4C9A09CAC2F76"
 				item: "croptopia:pepper"

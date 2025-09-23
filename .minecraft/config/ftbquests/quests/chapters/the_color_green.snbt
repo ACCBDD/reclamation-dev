@@ -1365,6 +1365,8 @@
 				"{ftbquests.chapter.the_color_green.quest38.description2}"
 				""
 				"{ftbquests.chapter.the_color_green.quest38.description3}"
+				""
+				"{ftbquests.chapter.the_color_green.quest38.description4}"
 			]
 			id: "4DE7466CAC029EF6"
 			rewards: [{

@@ -1,16 +1,16 @@
-filename = 'cookingforblockheads-forge-1.20.1-16.0.13.jar'
-name = 'Cooking for Blockheads'
+filename = 'cookingforblockheads-forge-1.20.1-16.0.14.jar'
+name = 'CookingForBlockheads'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '365230d3ea82d700eb6cc16e622ea1d6da0a268b'
+hash = '9e04a8ec055d2124baeb9ea4c3f52a32d7c19d1b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6270581
+file-id = 6975915
 project-id = 231484
