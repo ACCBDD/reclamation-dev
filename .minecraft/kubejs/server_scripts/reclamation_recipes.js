@@ -1835,4 +1835,8 @@ ServerEvents.recipes(event => {
             'embers:dawnstone_ingot')
 
     event.remove({id: 'constructionwand:core_destruction'})
+
+    //create deco
+    event.replaceInput({mod: 'createdeco'}, 'create:copper_sheet', 'embers:copper_plate')
+    event.replaceInput({mod: 'createdeco'}, 'create:iron_sheet', 'embers:iron_plate')
 })

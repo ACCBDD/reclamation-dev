@@ -27,7 +27,7 @@
 	#Comma-separated list of entity IDs allowed to use paths (e.g., minecraft:player, minecraft:horse).
 	valid_entities = "minecraft:player, minecraft:boat, minecraft:horse, minecraft:pig, minecraft:strider, minecraft:camel"
 	#Comma-separated list of dimension IDs where the mod operates (e.g., minecraft:overworld).
-	valid_dimensions = "minecraft:overworld, minecraft:nether, minecraft:the_end"
+	valid_dimensions = "minecraft:overworld, minecraft:the_nether, minecraft:the_end"
 	#Comma-separated list of block tags considered valid path blocks (e.g., via_romana:path_block).
 	valid_block_tags = "via_romana:path_block"
 	#Comma-separated list of specific block IDs considered valid path blocks (e.g., minecraft:stone_bricks).

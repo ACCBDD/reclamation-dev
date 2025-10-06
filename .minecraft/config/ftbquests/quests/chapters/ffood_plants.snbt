@@ -855,7 +855,6 @@
 			description: [
 				"{ftbquests.chapter.ffood_plants.quest40.description1}"
 				"{@pagebreak}"
-				"{ftbquests.chapter.ffood_plants.quest40.description2}"
 			]
 			hide_dependency_lines: true
 			id: "137AC3CF85666619"
