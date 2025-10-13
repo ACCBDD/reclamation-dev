@@ -1,0 +1,16 @@
+filename = 'baguettelib-1.20.1-Forge-1.1.0.jar'
+name = 'BaguetteLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '140ea51f71e5f316e473354cdeeb0dbba5422632'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6909482
+project-id = 1264423

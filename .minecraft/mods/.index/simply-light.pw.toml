@@ -1,0 +1,16 @@
+filename = 'simplylight-1.20.1-1.4.6-build.50.jar'
+name = 'Simply Light'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cfd851ffd2c3b451a96a19207dc6e084c1dfec73'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4832944
+project-id = 300331

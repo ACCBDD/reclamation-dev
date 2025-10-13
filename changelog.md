@@ -1,7 +1,10 @@
 # Reclamation 2.0.1
 
+We have official servers! The community server is still up as well, accessible through the discord :)
+
 ## Added
 * Wet frame recipe from essence - #277
+* Emojiful
 
 ## Updated
 * Embers -> 1.4.3
