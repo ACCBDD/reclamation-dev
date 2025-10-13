@@ -1,4 +1,4 @@
-filename = 'embersrekindled-1.20.1-1.4.2.jar'
+filename = 'embersrekindled-1.20.1-1.4.3.jar'
 name = 'Embers Rekindled'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '9ec8878d959093a37757b33da35a24077168c6a6'
+hash = 'ec0f6d8749fc9cf38b49987f996dea3360860d11'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6953702
+file-id = 7096057
 project-id = 300777

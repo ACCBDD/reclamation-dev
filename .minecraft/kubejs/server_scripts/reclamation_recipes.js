@@ -127,6 +127,15 @@ ServerEvents.recipes(event => {
          I: 'enchanted:icy_needle'
      })
 
+     event.shaped('complicated_bees:wet_frame', [
+              'AAA',
+              'AEA',
+              'AAA'
+          ], {
+              A: 'complicated_bees:waxed_stick',
+              E: 'mysticalagriculture:water_essence'
+          })
+
 
 
     //spice rack collision
