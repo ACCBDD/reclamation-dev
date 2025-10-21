@@ -889,15 +889,6 @@ ServerEvents.recipes(event => {
     'minecraft:comparator',
     'minecraft:repeater')
 
-    event.remove({id: 'minecraft:cut_copper_from_copper_block_stonecutting'})
-    event.custom({
-        "type": "minecraft:stonecutting",
-        "count": 1,
-        "ingredient": {
-            "item": "minecraft:copper_block"
-        },
-        "result": "minecraft:cut_copper"
-    })
     //copycats from andesite
     event.replaceInput({mod: 'copycats'},
     'create:zinc_ingot',
@@ -1848,4 +1839,69 @@ ServerEvents.recipes(event => {
     //create deco
     event.replaceInput({mod: 'createdeco'}, 'create:copper_sheet', 'embers:copper_plate')
     event.replaceInput({mod: 'createdeco'}, 'create:iron_sheet', 'embers:iron_plate')
+
+    //random cut copper 4x??
+    event.remove({id: 'minecraft:cut_copper_from_copper_block_stonecutting'})
+
+    const cut_copper_slabs = ['cut_copper_slab', 'exposed_cut_copper_slab', 'weathered_cut_copper_slab', 'oxidized_cut_copper_slab']
+    const vert_copper_slabs = ['cut_copper_vertical_slab', 'exposed_cut_copper_vertical_slab', 'weathered_cut_copper_vertical_slab', 'oxidized_cut_copper_vertical_slab']
+    const copper_blocks = ['copper_block', 'exposed_copper', 'weathered_copper', 'oxidized_copper']
+    const cut_copper = ['cut_copper', 'exposed_cut_copper', 'weathered_cut_copper', 'oxidized_cut_copper']
+
+    for (let i = 0; i < 4; i++) {
+        event.remove({id: 'minecraft:'+cut_copper[i]+'_from_'+copper_blocks[i]+'_stonecutting'})
+        event.remove({id: 'minecraft:waxed_'+cut_copper[i]+'_from_waxed_'+copper_blocks[i]+'_stonecutting'})
+        event.remove({id: 'minecraft:'+cut_copper_slabs[i]+'_from_'+copper_blocks[i]+'_stonecutting'})
+        event.remove({id: 'minecraft:waxed_'+cut_copper_slabs[i]+'_from_waxed_'+copper_blocks[i]+'_stonecutting'})
+        event.remove({id: 'quark:building/stonecutting/vertslabs/waxed_'+vert_copper_slabs[i]+'_from_waxed_'+copper_blocks[i]})
+        event.remove({id: 'quark:building/stonecutting/vertslabs/'+vert_copper_slabs[i]+'_from_'+copper_blocks[i]})
+        event.custom({
+            "type": "minecraft:stonecutting",
+            "count": 1,
+            "ingredient": {
+                "item": "minecraft:"+copper_blocks[i]
+            },
+            "result": "minecraft:"+cut_copper[i]
+        })
+        event.custom({
+            "type": "minecraft:stonecutting",
+            "count": 1,
+            "ingredient": {
+                "item": "minecraft:waxed_"+copper_blocks[i]
+            },
+            "result": "minecraft:waxed_"+cut_copper[i]
+        })
+        event.custom({
+            "type": "minecraft:stonecutting",
+            "count": 2,
+            "ingredient": {
+                "item": "minecraft:"+copper_blocks[i]
+            },
+            "result": "minecraft:"+cut_copper_slabs[i]
+        })
+        event.custom({
+            "type": "minecraft:stonecutting",
+            "count": 2,
+            "ingredient": {
+                "item": "minecraft:waxed_"+copper_blocks[i]
+            },
+            "result": "minecraft:waxed_"+cut_copper_slabs[i]
+        })
+        event.custom({
+            "type": "minecraft:stonecutting",
+            "count": 2,
+            "ingredient": {
+                "item": "minecraft:"+copper_blocks[i]
+            },
+            "result": "quark:"+vert_copper_slabs[i]
+        })
+        event.custom({
+            "type": "minecraft:stonecutting",
+            "count": 2,
+            "ingredient": {
+                "item": "minecraft:waxed_"+copper_blocks[i]
+            },
+            "result": "quark:waxed_"+vert_copper_slabs[i]
+        })
+    }
 })
