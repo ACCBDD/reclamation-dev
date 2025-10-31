@@ -316,7 +316,7 @@
 			description: [
 				"&6Sentient Tools&r are a much easier way for you to acquire will - instead of having to throw soul snares at enemies, the tools have the &6inherent ability to sever souls&r from their fleshy (or bony) prisons."
 				""
-				"They are also powered by will - any kind of soul gem in your inventory will &6increase the tools' power&r proportional to the amount of will you have stored."
+				"They are also powered by will - any kind of tartaric gem in your inventory will &6increase the tools' power&r proportional to the amount of will you have stored."
 			]
 			icon: {
 				Count: 1
