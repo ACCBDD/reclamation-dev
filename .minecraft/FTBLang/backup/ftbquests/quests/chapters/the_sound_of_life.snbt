@@ -2329,7 +2329,7 @@
 		}
 		{
 			dependencies: ["1F95463AFBB55B18"]
-			description: ["Summon a &6Drygmy&r at the Altar of Birthing. Give it a wilden horn to get a token, then craft it into a token. This tame Drygmy will &6produce experience and drops of mobs nearby,&r without killing them!"]
+			description: ["Summon a &6Drygmy&r at the Altar of Birthing. Give it a wilden horn to get a token, then craft it into a charm. This tame Drygmy will &6produce experience and drops of mobs nearby,&r without killing them!"]
 			id: "7A517B0D3ADC17FE"
 			rewards: [{
 				id: "062A83ACF679BECE"
