@@ -604,7 +604,7 @@
 				""
 				"To start, you'll want to turn lapis or amethyst shards into source gems using an &6Imbuement Chamber.&r However, for an Imbuement Chamber, you'll need a special kind of wood. Because &5Source&r is innately intertwined with &4Life Essence,&r infusing an already magically-resonant tree with &4Life Essence&r should produce a suitable sapling."
 				""
-				"&7Tip: you can convert between the four types of sapling using a mana pool!&r"
+				"&7Tip: you can convert between the five types of sapling using a mana pool!&r"
 			]
 			id: "1CCEDC1F9F219179"
 			rewards: [{
