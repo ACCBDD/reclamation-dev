@@ -1133,7 +1133,7 @@
 		}
 		{
 			dependencies: ["17089FF12C1591B8"]
-			description: ["There are a few other ways you can process materials using andesite-based machinery; namely, &6compacting, pressing, and mixing&r You'll need to find some way to capture a fire elemental if you want to expand your repertoire, though; &bmaybe mana can help you somehow?&r"]
+			description: ["There are a few other ways you can process materials using andesite-based machinery; namely, &6compacting, pressing, and mixing.&r You'll need to find some way to capture a fire elemental if you want to expand your repertoire, though; &bmaybe mana can help you somehow?&r"]
 			icon: "create:basin"
 			id: "2A32CE924C9CB606"
 			optional: true
