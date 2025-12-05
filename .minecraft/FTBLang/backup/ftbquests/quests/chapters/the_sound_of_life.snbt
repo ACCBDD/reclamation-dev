@@ -170,7 +170,7 @@
 			description: [
 				"The &6Hellfire Forge&r allows you to use Demonic Will to craft special items."
 				""
-				"One of the first things you'll want to make is a &6soul gem&r - these special gems can store demonic will you pick up without clogging your inventory."
+				"One of the first things you'll want to make is a &6tartaric gem&r - these special gems can store demonic will you pick up without clogging your inventory."
 				""
 				"&7Tip: the more will you have stored in your inventory, the more will drops from monsters!"
 			]
@@ -316,7 +316,7 @@
 			description: [
 				"&6Sentient Tools&r are a much easier way for you to acquire will - instead of having to throw soul snares at enemies, the tools have the &6inherent ability to sever souls&r from their fleshy (or bony) prisons."
 				""
-				"They are also powered by will - any kind of soul gem in your inventory will &6increase the tools' power&r proportional to the amount of will you have stored."
+				"They are also powered by will - any kind of tartaric gem in your inventory will &6increase the tools' power&r proportional to the amount of will you have stored."
 			]
 			icon: {
 				Count: 1
@@ -604,7 +604,7 @@
 				""
 				"To start, you'll want to turn lapis or amethyst shards into source gems using an &6Imbuement Chamber.&r However, for an Imbuement Chamber, you'll need a special kind of wood. Because &5Source&r is innately intertwined with &4Life Essence,&r infusing an already magically-resonant tree with &4Life Essence&r should produce a suitable sapling."
 				""
-				"&7Tip: you can convert between the four types of sapling using a mana pool!&r"
+				"&7Tip: you can convert between the five types of sapling using a mana pool!&r"
 			]
 			id: "1CCEDC1F9F219179"
 			rewards: [{
@@ -1101,7 +1101,7 @@
 				""
 				"Despite your best efforts, you can't breed tau from your currently-available stock of plants. Luckily, you don't have to."
 				""
-				"Using the power of the &6Edge of the Hidden Realm&r ritual, you can create a gateway to the Demon Realm. The Demon Realm has all sorts of goodies, but mainly it's the original source of Tau Fruit. Go forth, "
+				"Using the power of the &6Edge of the Hidden Realm&r ritual, you can create a gateway to the Demon Realm. The Demon Realm has all sorts of goodies, but mainly it's the original source of Tau Fruit."
 			]
 			icon: "bloodmagic:ritualdiviner"
 			id: "572D14ABB8B0DEB9"
@@ -2329,7 +2329,7 @@
 		}
 		{
 			dependencies: ["1F95463AFBB55B18"]
-			description: ["Summon a &6Drygmy&r at the Altar of Birthing. Give it a wilden horn to get a token, then craft it into a token. This tame Drygmy will &6produce experience and drops of mobs nearby,&r without killing them!"]
+			description: ["Summon a &6Drygmy&r at the Altar of Birthing. Give it a wilden horn to get a token, then craft it into a charm. This tame Drygmy will &6produce experience and drops of mobs nearby,&r without killing them!"]
 			id: "7A517B0D3ADC17FE"
 			rewards: [{
 				id: "062A83ACF679BECE"
