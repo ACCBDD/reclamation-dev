@@ -1,4 +1,4 @@
-filename = 'appliedenergistics2-forge-15.4.8.jar'
+filename = 'appliedenergistics2-forge-15.4.10.jar'
 name = 'Applied Energistics 2'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'afe5d93caa77f5acb0806a4c8908f0c39d99ea7f'
+hash = 'ac255a120499f79f8deade474da09e3c00ff9bad'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6852919
+file-id = 7148487
 project-id = 223794

@@ -1,6 +1,9 @@
 filename = 'cleanswing-1.20-1.8.jar'
 name = 'Clean Swing Through Grass'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'c128e24c47ab4a389b3868ff6913ee0631f254e8'

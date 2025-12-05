@@ -1,6 +1,9 @@
 filename = 'arseng-1.2.0.jar'
 name = 'Ars Énergistique'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0866c840609d8872e84a4d52bbb2542699e88755'

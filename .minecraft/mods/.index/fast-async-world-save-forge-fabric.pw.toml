@@ -1,5 +1,5 @@
 filename = 'fastasyncworldsave-1.20.1-2.6.jar'
-name = 'fastasyncworldsave mod'
+name = 'Fast Async World Save[Forge/Fabric]'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

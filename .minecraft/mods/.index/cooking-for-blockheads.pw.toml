@@ -1,5 +1,5 @@
 filename = 'cookingforblockheads-forge-1.20.1-16.0.14.jar'
-name = 'CookingForBlockheads'
+name = 'Cooking for Blockheads'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]

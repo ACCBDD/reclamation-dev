@@ -1291,7 +1291,7 @@
 			y: 10.0d
 		}
 		{
-			dependencies: ["5F89CB1EB71D3A1F"]
+			dependencies: ["65C7540C8DC0BF5F"]
 			description: ["{ftbquests.chapter.ffood_plants.quest63.description1}"]
 			id: "5017DC066FE3B51D"
 			rewards: [{

@@ -1,4 +1,4 @@
-filename = 'theurgy-1.20.1-1.23.4.jar'
+filename = 'theurgy-1.20.1-1.25.0.jar'
 name = 'Theurgy'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ef7adc9aa1b40775e65586b30a0a0d4832aa70de'
+hash = '22a9af9896b7a8d0ed0caef84ca2d4d6f5875ffa'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6145150
+file-id = 7065730
 project-id = 430636

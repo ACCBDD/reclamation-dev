@@ -1,6 +1,9 @@
 filename = 'AgriCraft-forge-1.20.1-4.0.5.jar'
 name = 'AgriCraft'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0cddcb841c4b5d1d9381b4108557f04c4b89c5e9'

@@ -1,4 +1,4 @@
-filename = 'antiblocksrechiseled-0.4.7.jar'
+filename = 'antiblocksrechiseled-0.4.8.jar'
 name = 'AntiBlocksReChiseled'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '5552f050074b626c99ac6b22aacfb750fd6fb33f'
+hash = 'da487c2bab51ea5464c03f8a3a2dfe4448af6d08'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6746599
+file-id = 6962887
 project-id = 715567

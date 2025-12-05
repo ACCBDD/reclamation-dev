@@ -4,15 +4,15 @@
     "modId": "forge",
     "version": "fmlloader-1.20.1-47.4.0.jar"
   },
-  "AdvancedAE-1.2.6-1.20.1.jar": {
-    "jarName": "AdvancedAE-1.2.6-1.20.1.jar",
+  "AdvancedAE-1.3.2-1.20.1.jar": {
+    "jarName": "AdvancedAE-1.3.2-1.20.1.jar",
     "modId": "advanced_ae",
-    "version": "1.2.6-1.20.1"
+    "version": "1.3.2-1.20.1"
   },
-  "ae2wtlib-15.3.0-forge.jar": {
-    "jarName": "ae2wtlib-15.3.0-forge.jar",
+  "ae2wtlib-15.3.3-forge.jar": {
+    "jarName": "ae2wtlib-15.3.3-forge.jar",
     "modId": "ae2wtlib",
-    "version": "15.3.0-forge"
+    "version": "15.3.3-forge"
   },
   "AgriCraft-forge-1.20.1-4.0.5.jar": {
     "jarName": "AgriCraft-forge-1.20.1-4.0.5.jar",
@@ -24,10 +24,10 @@
     "modId": "akashictome",
     "version": "1.7-27"
   },
-  "antiblocksrechiseled-0.4.7.jar": {
-    "jarName": "antiblocksrechiseled-0.4.7.jar",
+  "antiblocksrechiseled-0.4.8.jar": {
+    "jarName": "antiblocksrechiseled-0.4.8.jar",
     "modId": "antiblocksrechiseled",
-    "version": "0.4.7"
+    "version": "0.4.8"
   },
   "appleskin-forge-mc1.20.1-2.5.1.jar": {
     "jarName": "appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -39,20 +39,20 @@
     "modId": "appbot",
     "version": "1.5.1"
   },
-  "Applied-Mekanistics-1.4.2.jar": {
-    "jarName": "Applied-Mekanistics-1.4.2.jar",
+  "Applied-Mekanistics-1.4.3.jar": {
+    "jarName": "Applied-Mekanistics-1.4.3.jar",
     "modId": "appmek",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   "appliedcooking-4.0.0.jar": {
     "jarName": "appliedcooking-4.0.0.jar",
     "modId": "appliedcooking",
     "version": "4.0.0"
   },
-  "appliedenergistics2-forge-15.4.8.jar": {
-    "jarName": "appliedenergistics2-forge-15.4.8.jar",
+  "appliedenergistics2-forge-15.4.10.jar": {
+    "jarName": "appliedenergistics2-forge-15.4.10.jar",
     "modId": "ae2",
-    "version": "15.4.8"
+    "version": "15.4.10"
   },
   "architectury-9.2.14-forge.jar": {
     "jarName": "architectury-9.2.14-forge.jar",
@@ -94,20 +94,20 @@
     "modId": "attributefix",
     "version": "21.0.4"
   },
-  "baguettelib-1.20.1-Forge-1.1.0.jar": {
-    "jarName": "baguettelib-1.20.1-Forge-1.1.0.jar",
+  "baguettelib-1.20.1-Forge-1.1.5.jar": {
+    "jarName": "baguettelib-1.20.1-Forge-1.1.5.jar",
     "modId": "baguettelib",
-    "version": "1.1.0"
+    "version": "1.1.5"
   },
-  "balm-forge-1.20.1-7.3.35-all.jar": {
-    "jarName": "balm-forge-1.20.1-7.3.35-all.jar",
+  "balm-forge-1.20.1-7.3.37-all.jar": {
+    "jarName": "balm-forge-1.20.1-7.3.37-all.jar",
     "modId": "balm",
-    "version": "7.3.35"
+    "version": "7.3.37"
   },
-  "bloodmagic-1.20.1-3.3.3-45.jar": {
-    "jarName": "bloodmagic-1.20.1-3.3.3-45.jar",
+  "bloodmagic-1.20.1-3.3.5-47.jar": {
+    "jarName": "bloodmagic-1.20.1-3.3.5-47.jar",
     "modId": "bloodmagic",
-    "version": "3.3.3-45"
+    "version": "3.3.5-47"
   },
   "Botania-1.20.1-450-FORGE.jar": {
     "jarName": "Botania-1.20.1-450-FORGE.jar",
@@ -149,10 +149,10 @@
     "modId": "comforts",
     "version": "6.4.0+1.20.1"
   },
-  "complicated_bees-1.20.1-3.0.4.jar": {
-    "jarName": "complicated_bees-1.20.1-3.0.4.jar",
+  "complicated_bees-1.20.1-3.1.3.jar": {
+    "jarName": "complicated_bees-1.20.1-3.1.3.jar",
     "modId": "complicated_bees",
-    "version": "1.20.1-3.0.4"
+    "version": "1.20.1-3.1.3"
   },
   "constructionwand-1.20.1-2.11.jar": {
     "jarName": "constructionwand-1.20.1-2.11.jar",
@@ -169,30 +169,30 @@
     "modId": "cookingforblockheads",
     "version": "16.0.14"
   },
-  "copycats-3.0.2+mc.1.20.1-forge.jar": {
-    "jarName": "copycats-3.0.2+mc.1.20.1-forge.jar",
+  "copycats-3.0.4+mc.1.20.1-forge.jar": {
+    "jarName": "copycats-3.0.4+mc.1.20.1-forge.jar",
     "modId": "copycats",
-    "version": "3.0.2+mc.1.20.1-forge"
+    "version": "3.0.4+mc.1.20.1-forge"
   },
   "craftingtweaks-forge-1.20.1-18.2.6.jar": {
     "jarName": "craftingtweaks-forge-1.20.1-18.2.6.jar",
     "modId": "craftingtweaks",
     "version": "18.2.6"
   },
-  "CrashAssistant-forge-1.19-1.20.1-1.9.15.jar": {
-    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.9.15.jar",
+  "CrashAssistant-forge-1.19-1.20.1-1.10.23.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.23.jar",
     "modId": "crash_assistant",
-    "version": "1.9.15"
+    "version": "1.10.23"
   },
   "CraterLib-Forge-1.20-2.1.5.jar": {
     "jarName": "CraterLib-Forge-1.20-2.1.5.jar",
     "modId": "craterlib",
     "version": "2.1.5"
   },
-  "create-1.20.1-6.0.6.jar": {
-    "jarName": "create-1.20.1-6.0.6.jar",
+  "create-1.20.1-6.0.8.jar": {
+    "jarName": "create-1.20.1-6.0.8.jar",
     "modId": "create",
-    "version": "6.0.6"
+    "version": "6.0.8"
   },
   "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar": {
     "jarName": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
@@ -219,10 +219,10 @@
     "modId": "ctm",
     "version": "1.20.1-1.1.10"
   },
-  "Cucumber-1.20.1-7.0.15.jar": {
-    "jarName": "Cucumber-1.20.1-7.0.15.jar",
+  "Cucumber-1.20.1-7.0.16.jar": {
+    "jarName": "Cucumber-1.20.1-7.0.16.jar",
     "modId": "cucumber",
-    "version": "7.0.15"
+    "version": "7.0.16"
   },
   "cupboard-1.20.1-2.7.jar": {
     "jarName": "cupboard-1.20.1-2.7.jar",
@@ -244,20 +244,20 @@
     "modId": "embeddium",
     "version": "0.3.31+mc1.20.1"
   },
-  "embersrekindled-1.20.1-1.4.3.jar": {
-    "jarName": "embersrekindled-1.20.1-1.4.3.jar",
+  "embersrekindled-1.20.1-1.4.6.jar": {
+    "jarName": "embersrekindled-1.20.1-1.4.6.jar",
     "modId": "embers",
-    "version": "1.20.1-1.4.3"
+    "version": "1.20.1-1.4.6"
   },
   "emi-1.1.22+1.20.1+forge.jar": {
     "jarName": "emi-1.1.22+1.20.1+forge.jar",
     "modId": "emi",
     "version": "1.1.22+1.20.1+forge"
   },
-  "emi_loot-0.7.6+1.20.1+forge.jar": {
-    "jarName": "emi_loot-0.7.6+1.20.1+forge.jar",
+  "emi_loot-0.7.8+1.20.1-fix1+forge.jar": {
+    "jarName": "emi_loot-0.7.8+1.20.1-fix1+forge.jar",
     "modId": "emi_loot",
-    "version": "0.7.6+1.20.1+forge"
+    "version": "0.7.8+1.20.1-fix1+forge"
   },
   "Emojiful-Forge-1.20.1-4.2.0.jar": {
     "jarName": "Emojiful-Forge-1.20.1-4.2.0.jar",
@@ -289,10 +289,10 @@
     "modId": "exposure",
     "version": "1.7.16"
   },
-  "ExtendedAE-1.20-1.4.6-forge.jar": {
-    "jarName": "ExtendedAE-1.20-1.4.6-forge.jar",
+  "ExtendedAE-1.20-1.4.9-forge.jar": {
+    "jarName": "ExtendedAE-1.20-1.4.9-forge.jar",
     "modId": "expatternprovider",
-    "version": "1.20-1.4.6-forge"
+    "version": "1.20-1.4.9-forge"
   },
   "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar": {
     "jarName": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
@@ -304,10 +304,10 @@
     "modId": "fancymenu",
     "version": "3.6.4"
   },
-  "farmers_croptopia-1.20.1-3.0.0.jar": {
-    "jarName": "farmers_croptopia-1.20.1-3.0.0.jar",
+  "farmers_croptopia-1.20.1-3.2.0.jar": {
+    "jarName": "farmers_croptopia-1.20.1-3.2.0.jar",
     "modId": "farmers_croptopia",
-    "version": "3.0.0"
+    "version": "3.2.0"
   },
   "FarmersDelight-1.20.1-1.2.9.jar": {
     "jarName": "FarmersDelight-1.20.1-1.2.9.jar",
@@ -334,10 +334,10 @@
     "modId": "ftblibrary",
     "version": "2001.2.10"
   },
-  "ftb-quests-forge-2001.4.14.jar": {
-    "jarName": "ftb-quests-forge-2001.4.14.jar",
+  "ftb-quests-forge-2001.4.17.jar": {
+    "jarName": "ftb-quests-forge-2001.4.17.jar",
     "modId": "ftbquests",
-    "version": "2001.4.14"
+    "version": "2001.4.17"
   },
   "ftb-teams-forge-2001.3.1.jar": {
     "jarName": "ftb-teams-forge-2001.3.1.jar",
@@ -364,10 +364,10 @@
     "modId": "fusion",
     "version": "1.2.11+a"
   },
-  "fzzy_config-0.7.2+1.20.1+forge.jar": {
-    "jarName": "fzzy_config-0.7.2+1.20.1+forge.jar",
+  "fzzy_config-0.7.3+1.20.1+forge.jar": {
+    "jarName": "fzzy_config-0.7.3+1.20.1+forge.jar",
     "modId": "fzzy_config",
-    "version": "0.7.2+1.20.1+forge"
+    "version": "0.7.3+1.20.1+forge"
   },
   "geckolib-forge-1.20.1-4.8.2.jar": {
     "jarName": "geckolib-forge-1.20.1-4.8.2.jar",
@@ -384,20 +384,20 @@
     "modId": "gpumemleakfix",
     "version": "1.20.1-1.8"
   },
-  "gravestone-forge-1.20.1-1.0.33.jar": {
-    "jarName": "gravestone-forge-1.20.1-1.0.33.jar",
+  "gravestone-forge-1.20.1-1.0.35.jar": {
+    "jarName": "gravestone-forge-1.20.1-1.0.35.jar",
     "modId": "gravestone",
-    "version": "1.20.1-1.0.33"
+    "version": "1.20.1-1.0.35"
   },
   "gravestonecurioscompat-1.20.x-Forge-3.0.0.jar": {
     "jarName": "gravestonecurioscompat-1.20.x-Forge-3.0.0.jar",
     "modId": "gravestonecurioscompat",
     "version": "3.0.0"
   },
-  "guideme-20.1.13.jar": {
-    "jarName": "guideme-20.1.13.jar",
+  "guideme-20.1.14.jar": {
+    "jarName": "guideme-20.1.14.jar",
     "modId": "guideme",
-    "version": "20.1.13"
+    "version": "20.1.14"
   },
   "Heads-1.20.1-1.1.3.jar": {
     "jarName": "Heads-1.20.1-1.1.3.jar",
@@ -434,18 +434,18 @@
     "modId": "jade",
     "version": "11.13.2+forge"
   },
-  "jei-1.20.1-forge-15.20.0.113.jar": {
-    "jarName": "jei-1.20.1-forge-15.20.0.113.jar",
+  "jei-1.20.1-forge-15.20.0.127.jar": {
+    "jarName": "jei-1.20.1-forge-15.20.0.127.jar",
     "modId": "jei",
-    "version": "15.20.0.113"
+    "version": "15.20.0.127"
   },
   "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar": {
     "jarName": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
     "modId": "konkrete",
     "version": "1.8.0"
   },
-  "kotlinforforge-4.11.0-all.jar": {
-    "jarName": "kotlinforforge-4.11.0-all.jar"
+  "kotlinforforge-4.12.0-all.jar": {
+    "jarName": "kotlinforforge-4.12.0-all.jar"
   },
   "KryptonReforged-0.2.3.jar": {
     "jarName": "KryptonReforged-0.2.3.jar",
@@ -482,25 +482,25 @@
     "modId": "mcwfences",
     "version": "1.2.0"
   },
-  "mcw-furniture-3.3.0-mc1.20.1forge.jar": {
-    "jarName": "mcw-furniture-3.3.0-mc1.20.1forge.jar",
+  "mcw-furniture-3.4.1-mc1.20.1forge.jar": {
+    "jarName": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
     "modId": "mcwfurnitures",
-    "version": "3.3.0"
+    "version": "3.4.1"
   },
   "mcw-lights-1.1.2-mc1.20.1forge.jar": {
     "jarName": "mcw-lights-1.1.2-mc1.20.1forge.jar",
     "modId": "mcwlights",
     "version": "1.1.2"
   },
+  "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar": {
+    "jarName": "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+    "modId": "mcwpaths",
+    "version": "1.1.1"
+  },
   "mcw-mcwwindows-2.4.1-mc1.20.1forge.jar": {
     "jarName": "mcw-mcwwindows-2.4.1-mc1.20.1forge.jar",
     "modId": "mcwwindows",
     "version": "2.4.1"
-  },
-  "mcw-paths-1.1.0forge-mc1.20.1.jar": {
-    "jarName": "mcw-paths-1.1.0forge-mc1.20.1.jar",
-    "modId": "mcwpaths",
-    "version": "1.1.0"
   },
   "mcw-roofs-2.3.2-mc1.20.1forge.jar": {
     "jarName": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
@@ -512,10 +512,10 @@
     "modId": "mcwstairs",
     "version": "1.0.1"
   },
-  "mcw-trapdoors-1.1.4-mc1.20.1forge.jar": {
-    "jarName": "mcw-trapdoors-1.1.4-mc1.20.1forge.jar",
+  "mcw-trapdoors-1.1.5-mc1.20.1forge.jar": {
+    "jarName": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
     "modId": "mcwtrpdoors",
-    "version": "1.1.4"
+    "version": "1.1.5"
   },
   "Mekanism-1.20.1-10.4.16.80.jar": {
     "jarName": "Mekanism-1.20.1-10.4.16.80.jar",
@@ -537,20 +537,20 @@
     "modId": "melody",
     "version": "1.0.2"
   },
-  "modernfix-forge-5.24.4+mc1.20.1.jar": {
-    "jarName": "modernfix-forge-5.24.4+mc1.20.1.jar",
+  "modernfix-forge-5.25.1+mc1.20.1.jar": {
+    "jarName": "modernfix-forge-5.25.1+mc1.20.1.jar",
     "modId": "modernfix",
-    "version": "5.24.4+mc1.20.1"
+    "version": "5.25.1+mc1.20.1"
   },
-  "modonomicon-1.20.1-forge-1.77.6.jar": {
-    "jarName": "modonomicon-1.20.1-forge-1.77.6.jar",
+  "modonomicon-1.20.1-forge-1.79.2.jar": {
+    "jarName": "modonomicon-1.20.1-forge-1.79.2.jar",
     "modId": "modonomicon",
-    "version": "1.77.6"
+    "version": "1.79.2"
   },
-  "moonlight-1.20-2.16.12-forge.jar": {
-    "jarName": "moonlight-1.20-2.16.12-forge.jar",
+  "moonlight-1.20-2.16.16-forge.jar": {
+    "jarName": "moonlight-1.20-2.16.16-forge.jar",
     "modId": "moonlight",
-    "version": "1.20-2.16.12"
+    "version": "1.20-2.16.16"
   },
   "moreoverlays-1.22.7-mc1.20.2.jar": {
     "jarName": "moreoverlays-1.22.7-mc1.20.2.jar",
@@ -587,6 +587,11 @@
     "modId": "nethersdelight",
     "version": "1.20.1-4.0"
   },
+  "NoChatReports-FORGE-1.20.1-v2.2.2.jar": {
+    "jarName": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+    "modId": "nochatreports",
+    "version": "1.20.1-v2.2.2"
+  },
   "nopiglinportals-1.4.jar": {
     "jarName": "nopiglinportals-1.4.jar",
     "modId": "nopiglinportals",
@@ -607,10 +612,15 @@
     "modId": "oculus",
     "version": "1.8.0"
   },
-  "open-parties-and-claims-forge-1.20.1-0.25.6.jar": {
-    "jarName": "open-parties-and-claims-forge-1.20.1-0.25.6.jar",
+  "open-parties-and-claims-forge-1.20.1-0.25.8.jar": {
+    "jarName": "open-parties-and-claims-forge-1.20.1-0.25.8.jar",
     "modId": "openpartiesandclaims",
-    "version": "0.25.6"
+    "version": "0.25.8"
+  },
+  "packetfixer-3.3.1-1.18-1.20.4-merged.jar": {
+    "jarName": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+    "modId": "packetfixer",
+    "version": "3.3.1"
   },
   "Patchouli-1.20.1-84.1-FORGE.jar": {
     "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
@@ -642,15 +652,15 @@
     "modId": "rechiseled",
     "version": "1.1.6"
   },
-  "rechiseled_chipped-1.2.1-1.20.1.jar": {
-    "jarName": "rechiseled_chipped-1.2.1-1.20.1.jar",
+  "rechiseled_chipped-1.3.1-1.20.1.jar": {
+    "jarName": "rechiseled_chipped-1.3.1-1.20.1.jar",
     "modId": "rechiseled_chipped",
     "version": "1.2"
   },
-  "rechiseledae2-forge-1.20.1-1.0.0.jar": {
-    "jarName": "rechiseledae2-forge-1.20.1-1.0.0.jar",
+  "rechiseledae2-forge-1.20-1.20.1-1.1.0.jar": {
+    "jarName": "rechiseledae2-forge-1.20-1.20.1-1.1.0.jar",
     "modId": "rechiseledae2",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "rechiseledcreate-1.0.2b-forge-mc1.20.jar": {
     "jarName": "rechiseledcreate-1.0.2b-forge-mc1.20.jar",
@@ -702,30 +712,30 @@
     "modId": "smartbrainlib",
     "version": "1.15"
   },
-  "sophisticatedbackpacks-1.20.1-3.24.6.1366.jar": {
-    "jarName": "sophisticatedbackpacks-1.20.1-3.24.6.1366.jar",
+  "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar": {
+    "jarName": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
     "modId": "sophisticatedbackpacks",
-    "version": "3.24.6.1366"
+    "version": "3.24.12.1411"
   },
-  "sophisticatedcore-1.20.1-1.2.92.1159.jar": {
-    "jarName": "sophisticatedcore-1.20.1-1.2.92.1159.jar",
+  "sophisticatedcore-1.20.1-1.2.107.1240.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
     "modId": "sophisticatedcore",
-    "version": "1.2.92.1159"
+    "version": "1.2.107.1240"
   },
-  "sophisticatedstorage-1.20.1-1.4.6.1302.jar": {
-    "jarName": "sophisticatedstorage-1.20.1-1.4.6.1302.jar",
+  "sophisticatedstorage-1.20.1-1.4.16.1370.jar": {
+    "jarName": "sophisticatedstorage-1.20.1-1.4.16.1370.jar",
     "modId": "sophisticatedstorage",
-    "version": "1.4.6.1302"
+    "version": "1.4.16.1370"
   },
-  "sophisticatedstoragecreateintegration-1.20.1-0.1.12.36.jar": {
-    "jarName": "sophisticatedstoragecreateintegration-1.20.1-0.1.12.36.jar",
+  "sophisticatedstoragecreateintegration-1.20.1-0.1.14.55.jar": {
+    "jarName": "sophisticatedstoragecreateintegration-1.20.1-0.1.14.55.jar",
     "modId": "sophisticatedstoragecreateintegration",
-    "version": "0.1.12.36"
+    "version": "0.1.14.55"
   },
-  "sound-physics-remastered-forge-1.20.1-1.5.0.jar": {
-    "jarName": "sound-physics-remastered-forge-1.20.1-1.5.0.jar",
+  "sound-physics-remastered-forge-1.20.1-1.5.1.jar": {
+    "jarName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
     "modId": "sound_physics_remastered",
-    "version": "1.20.1-1.5.0"
+    "version": "1.20.1-1.5.1"
   },
   "stateobserver-forge-1.20.1-1.4.3.jar": {
     "jarName": "stateobserver-forge-1.20.1-1.4.3.jar",
@@ -747,15 +757,15 @@
     "modId": "supermartijn642corelib",
     "version": "1.1.18"
   },
-  "supplementaries-1.20-3.1.39.jar": {
-    "jarName": "supplementaries-1.20-3.1.39.jar",
+  "supplementaries-1.20-3.1.41.jar": {
+    "jarName": "supplementaries-1.20-3.1.41.jar",
     "modId": "supplementaries",
-    "version": "1.20-3.1.39"
+    "version": "1.20-3.1.41"
   },
-  "theurgy-1.20.1-1.23.4.jar": {
-    "jarName": "theurgy-1.20.1-1.23.4.jar",
+  "theurgy-1.20.1-1.25.0.jar": {
+    "jarName": "theurgy-1.20.1-1.25.0.jar",
     "modId": "theurgy",
-    "version": "1.23.4"
+    "version": "1.25.0"
   },
   "theurgy_kubejs-1.20.1-1.1.0.jar": {
     "jarName": "theurgy_kubejs-1.20.1-1.1.0.jar",

@@ -1,19 +1,42 @@
-
+#Amount of LP the Sacrificial Dagger should provide for each damage dealt. Default value 100
+#Range: 0 ~ 10000
+sacrificialDaggerConversion = 100
+#Declares the amount of LP gained per HP sacrificed for the given entity.
+#Setting the value to 0 will blacklist it.
+#Use the registry name of the entity followed by a ';' and then the value you want.
+#Vanilla entities do not require the modid.
+sacrificialValues = ["villager;100", "slime;15", "enderman;10", "cow;100", "chicken;100", "horse;100", "sheep;100", "wolf;100", "ocelot;100", "pig;100", "rabbit;100", "dummmmmmy:target_dummy;0"]
 #Stops the listed entities from being used in the Well of Suffering.
 #Use the registry name of the entity. Vanilla entities do not require the modid.
-[Blacklist]
-	wellOfSuffering = []
+wellOfSuffering = ["dummmmmmy:target_dummy"]
+#Declares the amount of LP gained per HP sacrificed for any entity not defined specifically. Default value 25
+#Range: 0 ~ 10000
+defaultSacrificeValue = 25
+#Amount of upgrade points the living armour has by default. Default value 100
+#Range: 0 ~ 2000000000
+default_upgrade_points = 100
+#Amount of upgrade points the living armour has when evolved. Default value 300
+#Range: 0 ~ 2000000000
+evolved_upgrade_points = 300
+#State that the dungeon spawning ritual can only be activated when using a Creative Activation Crystal.
+#Used on servers for if you do not trust your players to not destroy other people's bases.
+makeDungeonRitualCreativeOnly = false
 
-#Amount of LP the Sacrificial Dagger should provide for each damage dealt.
-["Config Values"]
-	#Range: 0 ~ 10000
-	sacrificialDaggerConversion = 100
-	#Declares the amount of LP gained per HP sacrificed for the given entity.
-	#Setting the value to 0 will blacklist it.
-	#Use the registry name of the entity followed by a ';' and then the value you want.
-	#Vanilla entities do not require the modid.
-	sacrificialValues = ["villager;100", "slime;15", "enderman;10", "cow;100", "chicken;100", "horse;100", "sheep;100", "wolf;100", "ocelot;100", "pig;100", "rabbit;100"]
-	#State that the dungeon spawning ritual can only be activated when using a Creative Activation Crystal.
-	#Used on servers for if you do not trust your players to not destroy other people's bases.
-	makeDungeonRitualCreativeOnly = false
+["Geode Ritual"]
+	activation_cost = 50000
+	refresh_cost = 50
+	min_raw_will = 50.0
+	min_corrosive_will = 50.0
+	min_destructive_will = 50.0
+	min_steadfast_will = 50.0
+	min_vengeful_will = 50.0
+	store_cost = 1.0
+	harm_cost = 0.125
+	fortune_cost = 1.0
+	silk_touch_cost = 1.0
+	growth_cost = 0.5
+	hurt_damage = 2
+	#Range: 1 ~ 15
+	max_budding_blocks = 7
+	max_harmed = 8
 

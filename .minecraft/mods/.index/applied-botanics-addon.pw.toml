@@ -1,5 +1,5 @@
 filename = 'applied-botanics-forge-1.5.1.jar'
-name = 'Applied Botanics'
+name = 'Applied Botanics Addon'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

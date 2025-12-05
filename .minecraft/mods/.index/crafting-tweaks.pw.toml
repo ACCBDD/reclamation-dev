@@ -1,5 +1,5 @@
 filename = 'craftingtweaks-forge-1.20.1-18.2.6.jar'
-name = 'CraftingTweaks'
+name = 'Crafting Tweaks'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]

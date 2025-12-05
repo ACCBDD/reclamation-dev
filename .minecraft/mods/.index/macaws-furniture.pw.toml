@@ -1,4 +1,4 @@
-filename = 'mcw-furniture-3.3.0-mc1.20.1forge.jar'
+filename = 'mcw-furniture-3.4.1-mc1.20.1forge.jar'
 name = "Macaw's Furniture"
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '997ff389bebed728e1e8094ba5438e7beb059ef3'
+hash = 'c05189646bbde5c0d4486b93de0d707115f8445c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5589873
+file-id = 7255630
 project-id = 359540

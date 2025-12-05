@@ -136,8 +136,6 @@ ServerEvents.recipes(event => {
               E: 'mysticalagriculture:water_essence'
           })
 
-
-
     //spice rack collision
     event.remove({id: "cookingforblockheads:spice_rack"})
     event.shaped('cookingforblockheads:spice_rack', [
@@ -1470,6 +1468,16 @@ ServerEvents.recipes(event => {
         S: 'minecraft:string',
         W: 'complicated_bees:beeswax',
         G: 'minecraft:gold_ingot',
+    })
+
+    event.shaped('minecraft:enchanting_table', [
+        ' B ',
+        'POP',
+        'OOO'
+    ], {
+        B: 'minecraft:book',
+        P: 'botania:mana_pearl',
+        O: 'minecraft:obsidian',
     })
 
     event.shaped('mcwlights:copper_small_chandelier', [

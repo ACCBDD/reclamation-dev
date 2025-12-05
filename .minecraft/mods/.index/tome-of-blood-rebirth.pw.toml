@@ -1,6 +1,9 @@
 filename = 'tomeofblood-1.20.1-0.4.4-all.jar'
 name = 'Tome of Blood: Rebirth'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'f903ce85902a87b3d38466f5d5bf4b4654a20bc6'

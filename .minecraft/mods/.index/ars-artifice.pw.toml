@@ -1,6 +1,9 @@
 filename = 'ars_artifice-1.20.1-2.0.4.jar'
 name = 'Ars Artifice'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'ff7a0837e2d75ba1faa1cda0fac94bd6a64af639'

@@ -1,5 +1,5 @@
 filename = 'immersive_paintings-0.6.8+1.20.1-forge.jar'
-name = 'Immersive Paintings'
+name = 'Immersive Paintings [Fabric/Forge]'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

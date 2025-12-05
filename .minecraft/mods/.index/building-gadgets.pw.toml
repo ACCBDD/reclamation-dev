@@ -1,5 +1,5 @@
 filename = 'buildinggadgets2-1.0.8.jar'
-name = 'Building Gadgets 2'
+name = 'Building Gadgets'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

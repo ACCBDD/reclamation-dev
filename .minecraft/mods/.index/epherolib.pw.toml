@@ -1,6 +1,9 @@
 filename = 'EpheroLib-1.20.1-FORGE-1.2.0.jar'
 name = 'EpheroLib'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '1eca21b906d38321bf60919dd3b12d160e5e6935'

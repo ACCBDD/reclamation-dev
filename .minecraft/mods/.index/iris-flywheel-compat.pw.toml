@@ -1,5 +1,5 @@
 filename = 'oculus-flywheel-compat-Forge-2.0.3.jar'
-name = 'Oculus Flywheel Compat'
+name = 'Iris & Oculus Flywheel Compat'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

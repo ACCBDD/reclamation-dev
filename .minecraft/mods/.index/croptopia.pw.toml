@@ -1,6 +1,9 @@
 filename = 'Croptopia-1.20.1-FORGE-3.0.4.jar'
 name = 'Croptopia'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '2008e6887b9490c491ddb471e87cfb6d26684dc5'

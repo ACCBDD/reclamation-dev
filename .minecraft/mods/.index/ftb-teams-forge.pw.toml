@@ -1,5 +1,5 @@
 filename = 'ftb-teams-forge-2001.3.1.jar'
-name = 'FTB Teams'
+name = 'FTB Teams (Forge)'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

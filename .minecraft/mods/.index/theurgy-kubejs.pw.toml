@@ -1,6 +1,9 @@
 filename = 'theurgy_kubejs-1.20.1-1.1.0.jar'
 name = 'Theurgy KubeJS'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'ea46158cdaec5c09cca6e7a269841cd3bd7ad489'

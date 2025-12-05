@@ -1,4 +1,4 @@
-filename = 'mcw-paths-1.1.0forge-mc1.20.1.jar'
+filename = 'mcw-mcwpaths-1.1.1-mc1.20.1forge.jar'
 name = "Macaw's Paths and Pavings"
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '67e3b94d014739ae3c3ecf25320c32d741ec19c4'
+hash = '821e5f406afa53a5c1d3346a20efb0ec7be97997'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6244135
+file-id = 7029554
 project-id = 629153

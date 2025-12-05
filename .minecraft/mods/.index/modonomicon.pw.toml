@@ -1,4 +1,4 @@
-filename = 'modonomicon-1.20.1-forge-1.77.6.jar'
+filename = 'modonomicon-1.20.1-forge-1.79.2.jar'
 name = 'Modonomicon'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6dc377631b94d7ea0996c22ecf2bde1ce5b55a7a'
+hash = '9d55f629c8a9b0ea1912051fe04b16400c640944'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6181667
+file-id = 7086951
 project-id = 538392

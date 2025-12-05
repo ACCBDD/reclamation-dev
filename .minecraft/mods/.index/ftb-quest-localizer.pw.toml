@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b61e22a1d741088d1f0a76cfd170610ad621581c41e8baa1cce1f7129233ff62afee64bdd988479ee966c54a5ce30c194dc6c41c06f04ba32e9b8770eb0cd037'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/t9CTC5n9/versions/azwdYL54/ftbquestlocalizer-1.20.1-forge-3.2.0.jar'
+hash = 'df04326376a7abdf3df5e8234979cb3e2b7f426d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 't9CTC5n9'
-version = 'azwdYL54'
+[update.curseforge]
+file-id = 6163276
+project-id = 1071737

@@ -1,4 +1,4 @@
-filename = 'ae2wtlib-15.3.0-forge.jar'
+filename = 'ae2wtlib-15.3.3-forge.jar'
 name = 'AE2WTLib'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '889fa4f0aa90d3541e45ab59d41a249af3c9dd20'
+hash = '1a546af04844677542b6914191783c7de15364fc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7014805
+file-id = 7251206
 project-id = 459929

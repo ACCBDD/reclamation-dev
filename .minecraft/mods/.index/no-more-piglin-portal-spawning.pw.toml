@@ -1,6 +1,9 @@
 filename = 'nopiglinportals-1.4.jar'
 name = 'No More Piglin Portal Spawning'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'efd22ddf6b41552ddc359cde3ea1b4dfdaddc393'

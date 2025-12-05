@@ -1,5 +1,5 @@
 filename = 'lootjs-forge-1.20.1-2.13.0.jar'
-name = 'LootJS'
+name = 'LootJS: KubeJS Addon'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

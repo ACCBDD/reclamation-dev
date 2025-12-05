@@ -1,6 +1,9 @@
 filename = 'toomanyglyphs-1.20.1-2.3.2.12345.jar'
 name = 'Too Many Glyphs'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '5adbcc67259deaad1e1625dae3947b415ed81bac'

@@ -1,6 +1,9 @@
 filename = 'Heads-1.20.1-1.1.3.jar'
 name = 'Heads'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = 'f20224386d42b676a1234226962b5010e91fdf71'
