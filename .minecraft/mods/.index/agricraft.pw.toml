@@ -1,16 +1,21 @@
-filename = 'AgriCraft-forge-1.20.1-4.0.5.jar'
+filename = 'AgriCraft-forge-1.20.1-4.0.6.jar'
 name = 'AgriCraft'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AgriCraft-forge-1.20.1-4.0.6.jar'
 
 [download]
-hash = '0cddcb841c4b5d1d9381b4108557f04c4b89c5e9'
+hash = '97035ebd0ac8f5b4ebafe98c61a84723cba00db4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5899444
+file-id = 7257465
 project-id = 225635
+
+[[x-prismlauncher-dependencies]]
+addonId = '714059'
+type = 'REQUIRED'

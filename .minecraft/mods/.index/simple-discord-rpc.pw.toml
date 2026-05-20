@@ -1,15 +1,12 @@
-filename = 'SimpleRPC-4.0.4.jar'
-name = 'Simple Discord RPC'
-side = 'both'
+filename = 'SimpleRPC-4.1.0+hotfix.1.jar'
+name = 'Simple RPC'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.18.2',
     '1.19.2',
-    '1.19.4',
     '1.20',
     '1.20.1',
-    '1.20.2',
-    '1.20.4',
     '1.21',
     '1.21.1',
     '1.21.2',
@@ -17,16 +14,26 @@ x-prismlauncher-mc-versions = [
     '1.21.4',
     '1.21.5',
     '1.21.6',
-    '1.21.7'
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1.2'
 ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.18.2 - 26.1] Simple RPC Universal 4.1.0+hotfix.1'
 
 [download]
-hash = '36b4246bb5ce216ecc3e3b92a56fa5eb103a9786'
+hash = '68cad6db795edc2be4f1c567909b931eefd91b36'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6736722
+file-id = 7817789
 project-id = 411816
+
+[[x-prismlauncher-dependencies]]
+addonId = '867099'
+type = 'REQUIRED'

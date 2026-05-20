@@ -1,16 +1,18 @@
-filename = 'immersive_paintings-0.6.8+1.20.1-forge.jar'
-name = 'Immersive Paintings [Fabric/Forge]'
-side = 'both'
+filename = 'immersive_paintings-0.6.11+1.20.1-forge.jar'
+name = 'Immersive Paintings'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge 1.20.1] Immersive Paintings - 0.6.11'
 
 [download]
-hash = 'f3a464ae2cb3173c7a7b765b4b9e61591f71833c'
+hash = '99ffd1b03beb8a0ef362baf89cc25cc5c24afe14'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6672642
+file-id = 7809908
 project-id = 639584

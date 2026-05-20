@@ -1,16 +1,18 @@
-filename = 'emi-1.1.22+1.20.1+forge.jar'
+filename = 'emi-1.1.24+1.20.1+forge.jar'
 name = 'EMI'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emi-1.1.24+1.20.1+forge'
 
 [download]
-hash = 'd8049d6ec86befcd100a0ff0fc8ebc289f735997'
+hash = 'ea320200878e4a49196760234a22da763671520a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6420945
+file-id = 8081375
 project-id = 580555

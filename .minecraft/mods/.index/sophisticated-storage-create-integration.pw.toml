@@ -1,16 +1,33 @@
-filename = 'sophisticatedstoragecreateintegration-1.20.1-0.1.14.55.jar'
+filename = 'sophisticatedstoragecreateintegration-1.20.1-0.1.19.125.jar'
 name = 'Sophisticated Storage Create Integration'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sophisticatedstoragecreateintegration-1.20.1-0.1.19.125.jar'
 
 [download]
-hash = '361046e6e27a4a60a2558a15356036e5bd7723b6'
+hash = '079e065a84e6c04de58c0267c7452d4195e7c43e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7169418
+file-id = 7974841
 project-id = 1226755
+
+[[x-prismlauncher-dependencies]]
+addonId = '619320'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '618298'
+type = 'REQUIRED'

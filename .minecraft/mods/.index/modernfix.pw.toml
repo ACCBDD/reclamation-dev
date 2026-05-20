@@ -1,16 +1,18 @@
-filename = 'modernfix-forge-5.25.1+mc1.20.1.jar'
+filename = 'modernfix-forge-5.27.25+mc1.20.1.jar'
 name = 'ModernFix'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'modernfix-forge-5.27.25+mc1.20.1.jar'
 
 [download]
-hash = '124ea5db8c3b7dc00166806ef0fc412177882fda'
+hash = '09c1a0e87501d46b0b999eb2527fd3406625553a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7200213
+file-id = 8099770
 project-id = 790626

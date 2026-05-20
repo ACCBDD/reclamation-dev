@@ -1,16 +1,21 @@
-filename = 'Croptopia-1.20.1-FORGE-3.0.4.jar'
+filename = 'Croptopia-1.20.1-FORGE-4.0.1.jar'
 name = 'Croptopia'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Croptopia-1.20.1-FORGE-4.0.1.jar'
 
 [download]
-hash = '2008e6887b9490c491ddb471e87cfb6d26684dc5'
+hash = 'ddec955cea11a6d65b8bdc50951d11e0896353d6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4997459
+file-id = 8066550
 project-id = 415438
+
+[[x-prismlauncher-dependencies]]
+addonId = '885449'
+type = 'REQUIRED'

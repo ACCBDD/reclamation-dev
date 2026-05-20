@@ -1,16 +1,18 @@
-filename = 'baguettelib-1.20.1-Forge-1.1.5.jar'
+filename = 'baguettelib-1.20.1-Forge-1.1.6.jar'
 name = 'BaguetteLib'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'baguettelib-1.20.1-Forge-1.1.6.jar'
 
 [download]
-hash = '7aaab6216e7fc72e1606b1e35f1f56a18f01153f'
+hash = '8d3c9551bbed4c2f2e8cb2b9a10d31bad4edb52d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7287505
+file-id = 7544807
 project-id = 1264423

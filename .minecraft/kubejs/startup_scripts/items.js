@@ -29,13 +29,6 @@ StartupEvents.registry('item', event => {
 })
 
 ItemEvents.modification(event => {
-    event.modify('enchanted:garlic', item => {
-        item.foodProperties = food => {
-            food.hunger(1)
-            food.saturation(0.5)
-        }
-    })
-
     event.modify('complicated_bees:cold_frame', item => {
         item.maxDamage = 30
     })

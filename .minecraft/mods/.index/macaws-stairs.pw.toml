@@ -1,16 +1,18 @@
-filename = 'mcw-stairs-1.0.1-1.20.1forge.jar'
-name = "Macaw's Stairs"
-side = 'both'
+filename = 'mcw-mcwstairs-1.0.2-mc1.20.1forge.jar'
+name = "Macaw's Stairs and Balconies"
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0.2 / mc1.20.1 - Forge'
 
 [download]
-hash = '90f3a4002518d5c03353891498f8ad7b55332d2d'
+hash = '8f3a8271e43b53171c3a4d4827415bebd06775d9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6155181
+file-id = 7317580
 project-id = 1119394

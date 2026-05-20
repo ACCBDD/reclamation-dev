@@ -1,16 +1,97 @@
-filename = 'farmers_croptopia-1.20.1-3.2.0.jar'
-name = "Farmer's (Delight) Croptopia"
-side = 'both'
+filename = 'farmers_croptopia-1.20.1-3.2.1.jar'
+name = "Farmer's Croptopia"
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.20.1-3.2.1'
 
 [download]
-hash = 'b0ae79739380da17e8854c889b0674579c6f97df'
+hash = '6d0086c17a85c90d1a97c234a183cf466fb1bfb3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7181384
+file-id = 7969753
 project-id = 1132546
+
+[[x-prismlauncher-dependencies]]
+addonId = '949719'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1128831'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '943774'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '415438'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '827163'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1082807'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '909519'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1003673'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '892827'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '689630'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '551453'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '637808'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '574622'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '841262'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1106612'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '637529'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '977515'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1016377'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '496394'
+type = 'OPTIONAL'

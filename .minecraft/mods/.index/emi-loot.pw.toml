@@ -1,16 +1,29 @@
-filename = 'emi_loot-0.7.8+1.20.1-fix1+forge.jar'
+filename = 'emi_loot-0.7.9+1.20.1+forge.jar'
 name = 'EMI Loot'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emi_loot-0.7.9+1.20.1+forge.jar'
 
 [download]
-hash = '9df02cff0f37498510ae90f007dae4fb8a4ea7c1'
+hash = 'e3f6289abd4de8ebbbb0ffc162b35346c3acd54f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7265857
+file-id = 7417249
 project-id = 681783
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1005914'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1091274'
+type = 'OPTIONAL'

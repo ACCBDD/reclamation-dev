@@ -1,16 +1,85 @@
-filename = 'supplementaries-1.20-3.1.41.jar'
+filename = 'supplementaries-1.20-3.1.43-forge.jar'
 name = 'Supplementaries'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'supplementaries-1.20-3.1.43-forge.jar'
 
 [download]
-hash = '9ab9dd5ffed81cbb547facf2849920af99bf96c3'
+hash = '326d65a29981de28016e3828370d68a8f63e1798'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7113231
+file-id = 7884611
 project-id = 412082
+
+[[x-prismlauncher-dependencies]]
+addonId = '362528'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '541753'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '499980'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '566142'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '493246'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '486392'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '282001'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '676136'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '457570'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245755'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '243121'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '362479'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '519759'
+type = 'OPTIONAL'

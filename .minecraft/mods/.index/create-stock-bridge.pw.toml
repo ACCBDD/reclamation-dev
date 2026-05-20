@@ -1,16 +1,25 @@
-filename = 'createstockbridge-1.20-0.1.5.jar'
+filename = 'createstockbridge-1.20-0.2.0.jar'
 name = 'Create Stock Bridge'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] Create Stock Bridge 1.20-0.2.0'
 
 [download]
-hash = '0fa15f11788e3bc3a812fc597ade17af33888952'
+hash = 'fa7f118552646b9bbd5c9ec103e90fa0ee282d46'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6784442
+file-id = 8044768
 project-id = 1256341
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'

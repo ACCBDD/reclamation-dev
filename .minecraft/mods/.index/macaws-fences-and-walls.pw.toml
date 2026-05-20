@@ -1,16 +1,18 @@
-filename = 'mcw-fences-1.2.0-1.20.1forge.jar'
+filename = 'mcw-mcwfences-1.2.1-mc1.20.1forge.jar'
 name = "Macaw's Fences and Walls"
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.2.1 / mc1.20.1 - Forge'
 
 [download]
-hash = '45bb2cd2be580c0a85d3da719d6d2b850fa1c6b3'
+hash = 'd24bc6e1ba7f04e058db019ae5ca3d10edd9510a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6363155
+file-id = 7308423
 project-id = 453925

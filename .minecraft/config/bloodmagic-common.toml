@@ -40,3 +40,39 @@ makeDungeonRitualCreativeOnly = false
 	max_budding_blocks = 7
 	max_harmed = 8
 
+#LP costs for sigils. For toggleable sigils, this is the upkeep cost drained every 5 seconds while active.
+[sigil_cost]
+	#LP cost per use
+	#Range: 0 ~ 10000000
+	air = 50
+	#LP cost per use
+	#Range: 0 ~ 10000000
+	blood_light = 10
+	#LP cost per use
+	#Range: 0 ~ 10000000
+	water = 100
+	#LP cost per use
+	#Range: 0 ~ 10000000
+	lava = 1000
+	#LP cost per use
+	#Range: 0 ~ 10000000
+	void = 50
+	#LP cost per use
+	#Range: 0 ~ 10000000
+	teleposition = 1000
+	#LP upkeep cost (drained every 5 seconds while active)
+	#Range: 0 ~ 10000000
+	fast_miner = 100
+	#LP upkeep cost (drained every 5 seconds while active)
+	#Range: 0 ~ 10000000
+	green_grove = 150
+	#LP upkeep cost (drained every 5 seconds while active)
+	#Range: 0 ~ 10000000
+	frost = 100
+	#LP upkeep cost (drained every 5 seconds while active)
+	#Range: 0 ~ 10000000
+	magnetism = 50
+	#LP upkeep cost (drained every 5 seconds while active)
+	#Range: 0 ~ 10000000
+	suppression = 400
+

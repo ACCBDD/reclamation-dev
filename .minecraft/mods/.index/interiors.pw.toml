@@ -1,16 +1,29 @@
-filename = 'interiors-0.5.6+forge-mc1.20.1-local.jar'
+filename = 'interiors-1.20.1-forge-0.6.0.jar'
 name = 'Create: Interiors'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Interiors 0.6.0 for Forge 1.20.'
 
 [download]
-hash = '5f46c829dc012138faa1191d97ef79c7569b53a1'
+hash = '3371c5ab69a1169f74bee7ab6349bc0f5d6e69bb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6301533
+file-id = 7338640
 project-id = 906239
+
+[[x-prismlauncher-dependencies]]
+addonId = '459701'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

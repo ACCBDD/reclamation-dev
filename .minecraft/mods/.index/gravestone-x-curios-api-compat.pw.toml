@@ -1,16 +1,29 @@
-filename = 'gravestonecurioscompat-1.20.x-Forge-3.0.0.jar'
-name = 'Gravestone x Curios API Compat'
-side = 'both'
+filename = 'gravestonecurioscompat-1.20.1-Forge-4.0.2.jar'
+name = 'gravestonecurioscompat'
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'gravestonecurioscompat-1.20.1-Forge-4.0.2.jar'
 
 [download]
-hash = 'a563c0daf8ec490eb56426fc0f440adc31e628d8'
+hash = '121710bff064bbbbe3b0bca3e58030b9254b046c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6544424
+file-id = 8034266
 project-id = 1139062
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238551'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1264423'
+type = 'REQUIRED'

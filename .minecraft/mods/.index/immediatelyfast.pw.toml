@@ -1,16 +1,18 @@
-filename = 'ImmediatelyFast-Forge-1.5.2+1.20.4.jar'
+filename = 'ImmediatelyFast-Forge-1.5.4+1.20.4.jar'
 name = 'ImmediatelyFast'
-side = 'client'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ImmediatelyFast 1.5.4'
 
 [download]
-hash = '2eeca5deb063ed49bb9c6be8b162ca6270202239'
+hash = 'e2e60485a0c3efa72f1948c952b095150e3ba4fc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6997261
+file-id = 7537759
 project-id = 686911
