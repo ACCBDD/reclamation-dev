@@ -452,13 +452,13 @@
     "curseForgeHash": 3629377691,
     "modrinthHash": "f03a753b276bbb1f17bc7050566a1bf9dbb0a74a"
   },
-  "exposure-forge-1.20.1-1.9.20.jar": {
-    "jarName": "exposure-forge-1.20.1-1.9.20.jar",
+  "exposure-1.20.1-1.7.16-forge.jar": {
+    "jarName": "exposure-1.20.1-1.7.16-forge.jar",
     "modId": "exposure",
     "name": "Exposure",
-    "version": "1.9.20",
-    "curseForgeHash": 4053768133,
-    "modrinthHash": "043407042adf752c896f5be123676d702a843457"
+    "version": "1.7.16",
+    "curseForgeHash": 652681066,
+    "modrinthHash": "b1ec92eeafdc97e88e0baacd5d89f4c1f89a4bbc"
   },
   "ExtendedAE-1.20-1.4.15-forge.jar": {
     "jarName": "ExtendedAE-1.20-1.4.15-forge.jar",
@@ -1065,13 +1065,13 @@
     "curseForgeHash": 2215011068,
     "modrinthHash": "b644246fe5b1e44df90c1c71687404259855e8d6"
   },
-  "reclamation_util-1.20.1-1.0.24.jar": {
-    "jarName": "reclamation_util-1.20.1-1.0.24.jar",
+  "reclamation_util-1.20.1-1.0.27.jar": {
+    "jarName": "reclamation_util-1.20.1-1.0.27.jar",
     "modId": "reclamation_util",
     "name": "reclamation_util",
-    "version": "1.0.24",
-    "curseForgeHash": 1725478442,
-    "modrinthHash": "f5282d6f6514c8e6a903ef8f4547949e5eec3de6"
+    "version": "1.0.27",
+    "curseForgeHash": 3200232078,
+    "modrinthHash": "7f59e12a44e9cb3e85b0d25c47120caaf23301c6"
   },
   "resourcefulconfig-forge-1.20.1-2.1.3.jar": {
     "jarName": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
