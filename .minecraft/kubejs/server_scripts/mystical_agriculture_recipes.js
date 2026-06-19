@@ -174,11 +174,35 @@ ServerEvents.recipes(event => {
         "type": "mekanism:infusion_conversion",
         "input": {
             "ingredient": {
+                "item": "mysticalagriculture:inferium_block"
+            }
+        },
+        "output": {
+            "amount": 90,
+            "infuse_type": "reclamation:inferium"
+        }
+    })
+    event.custom({
+        "type": "mekanism:infusion_conversion",
+        "input": {
+            "ingredient": {
                 "item": "mysticalagriculture:prudentium_essence"
             }
         },
         "output": {
             "amount": 10,
+            "infuse_type": "reclamation:prudentium"
+        }
+    })
+    event.custom({
+        "type": "mekanism:infusion_conversion",
+        "input": {
+            "ingredient": {
+                "item": "mysticalagriculture:prudentium_block"
+            }
+        },
+        "output": {
+            "amount": 90,
             "infuse_type": "reclamation:prudentium"
         }
     })
@@ -198,11 +222,35 @@ ServerEvents.recipes(event => {
         "type": "mekanism:infusion_conversion",
         "input": {
             "ingredient": {
+                "item": "mysticalagriculture:tertium_block"
+            }
+        },
+        "output": {
+            "amount": 90,
+            "infuse_type": "reclamation:tertium"
+        }
+    })
+    event.custom({
+        "type": "mekanism:infusion_conversion",
+        "input": {
+            "ingredient": {
                 "item": "mysticalagriculture:imperium_essence"
             }
         },
         "output": {
             "amount": 10,
+            "infuse_type": "reclamation:imperium"
+        }
+    })
+    event.custom({
+        "type": "mekanism:infusion_conversion",
+        "input": {
+            "ingredient": {
+                "item": "mysticalagriculture:imperium_block"
+            }
+        },
+        "output": {
+            "amount": 90,
             "infuse_type": "reclamation:imperium"
         }
     })
